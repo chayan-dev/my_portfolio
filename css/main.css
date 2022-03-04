@@ -1530,6 +1530,7 @@ header .logo a {
 	font-family: "poppins-bold", sans-serif;
 	font-size: 1.8rem;
 	text-transform: uppercase;
+	color: #cc005f;
 	letter-spacing: .25rem;
 }
 .about-content .info-list {
